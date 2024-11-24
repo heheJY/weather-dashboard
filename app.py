@@ -6,9 +6,9 @@ import pytz
 app = Flask(__name__)
 
 # API Keys
-IPSTACK_API_KEY = "PLACEHOLDER"
-OPENWEATHER_API_KEY = "PLACEHOLDER"
-NEWS_API_KEY = "PLACEHOLDER"
+IPSTACK_API_KEY = "IPSTACK_API_KEY"
+OPENWEATHER_API_KEY = "OPENWEATHER_API_KEY"
+NEWS_API_KEY = "NEWS_API_KEY"
 
 def get_recommendations(weather, pollution):
     recommendations = []

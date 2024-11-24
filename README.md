@@ -75,7 +75,7 @@ Follow these steps to set up and run the dashboard locally:
 
 ### **1. Clone the Repository**
 ```
-git clone https://github.com/hehejy/weather-dashboard.git 
+git clone https://github.com/heheJY/weather-dashboard.git 
 cd weather-dashboard
 ```
 
